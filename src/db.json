@@ -1,0 +1,324 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Local Concert",
+      "description": "An amazing local concert featuring local bands.",
+      "date": "2023-12-01",
+      "location": "Local Venue",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Art Exhibition",
+      "description": "Explore the latest art pieces from local and international artists.",
+      "date": "2023-11-15",
+      "location": "City Art Gallery",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "Food Festival",
+      "description": "Taste dishes from the finest chefs around the city.",
+      "date": "2023-10-20",
+      "location": "Downtown Square",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "Technology Conference",
+      "description": "Learn about the latest trends in technology.",
+      "date": "2024-01-10",
+      "location": "Tech Convention Center",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "Outdoor Movie Night",
+      "description": "Watch classic movies under the stars.",
+      "date": "2024-02-14",
+      "location": "Central Park",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "title": "Historical Tour",
+      "description": "A guided tour of historical landmarks.",
+      "date": "2024-03-01",
+      "location": "Old Town",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "title": "Charity Run",
+      "description": "Participate in a run for a good cause.",
+      "date": "2024-04-05",
+      "location": "Riverfront Park",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "title": "Farmers Market",
+      "description": "Buy fresh produce directly from local farmers.",
+      "date": "2024-05-25",
+      "location": "Main Street",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "title": "Theater Play",
+      "description": "Enjoy a performance by the local theater troupe.",
+      "date": "2024-06-10",
+      "location": "City Theater",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "title": "Jazz Festival",
+      "description": "Live jazz music by renowned artists.",
+      "date": "2024-07-20",
+      "location": "Beachfront Stage",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 11,
+      "title": "Book Fair",
+      "description": "Meet authors and buy new releases.",
+      "date": "2024-08-15",
+      "location": "Library Plaza",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 12,
+      "title": "Fashion Show",
+      "description": "Latest fashion trends on display.",
+      "date": "2024-09-05",
+      "location": "Fashion District",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 13,
+      "title": "Wine Tasting",
+      "description": "Sample wines from local vineyards.",
+      "date": "2024-10-10",
+      "location": "Vineyard Estate",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 14,
+      "title": "Holiday Parade",
+      "description": "Celebrate the season with a festive parade.",
+      "date": "2024-12-25",
+      "location": "Main Boulevard",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 15,
+      "title": "Comedy Show",
+      "description": "Laugh out loud with top comedians.",
+      "date": "2024-11-18",
+      "location": "Laugh Factory",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 16,
+      "title": "Rock Concert",
+      "description": "An energetic rock concert with famous bands.",
+      "date": "2023-12-05",
+      "location": "Rock Arena",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 17,
+      "title": "Classical Music Night",
+      "description": "An evening of classical music.",
+      "date": "2024-01-15",
+      "location": "Concert Hall",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 18,
+      "title": "Science Fair",
+      "description": "Exhibits and experiments from young scientists.",
+      "date": "2024-02-20",
+      "location": "Convention Center",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 19,
+      "title": "Dance Performance",
+      "description": "A mesmerizing dance show by local artists.",
+      "date": "2024-03-25",
+      "location": "City Theater",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 20,
+      "title": "Poetry Reading",
+      "description": "An evening of poetry and prose.",
+      "date": "2024-04-10",
+      "location": "Bookstore",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 21,
+      "title": "Culture Festival",
+      "description": "A celebration of culture and diversity.",
+      "date": "2024-05-01",
+      "location": "Cultural Center",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 22,
+      "title": "Magic Show",
+      "description": "A magical evening with incredible illusions.",
+      "date": "2024-06-14",
+      "location": "Magic Theater",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 23,
+      "title": "Stand-Up Comedy Night",
+      "description": "An evening of laughter with stand-up comedians.",
+      "date": "2024-07-05",
+      "location": "Comedy Club",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 24,
+      "title": "Opera Performance",
+      "description": "A grand opera performance.",
+      "date": "2024-08-20",
+      "location": "Opera House",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 25,
+      "title": "Marathon",
+      "description": "A city-wide marathon for runners.",
+      "date": "2024-09-15",
+      "location": "City Streets",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 26,
+      "title": "Nature Walk",
+      "description": "A guided walk through beautiful trails.",
+      "date": "2024-10-05",
+      "location": "Nature Park",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 27,
+      "title": "Carnival",
+      "description": "A fun-filled carnival with rides and games.",
+      "date": "2024-11-01",
+      "location": "Fairgrounds",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 28,
+      "title": "Choral Concert",
+      "description": "A concert by the city choir.",
+      "date": "2024-12-18",
+      "location": "Church",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 29,
+      "title": "Craft Fair",
+      "description": "Handmade crafts and art for sale.",
+      "date": "2024-01-25",
+      "location": "Community Center",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 30,
+      "title": "Film Screening",
+      "description": "A screening of an independent film.",
+      "date": "2024-02-18",
+      "location": "Cinema",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 31,
+      "title": "Ballet Performance",
+      "description": "A beautiful ballet show.",
+      "date": "2024-03-10",
+      "location": "Dance Theater",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 32,
+      "title": "Musical Theater",
+      "description": "A musical show with lively performances.",
+      "date": "2024-04-08",
+      "location": "Theater",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 33,
+      "title": "Literary Festival",
+      "description": "Celebrating literature with author talks.",
+      "date": "2024-05-12",
+      "location": "Library",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 34,
+      "title": "Puppet Show",
+      "description": "A fun puppet show for children.",
+      "date": "2024-06-05",
+      "location": "Kid’s Theater",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 35,
+      "title": "Talent Show",
+      "description": "Witness amazing talents in the community.",
+      "date": "2024-07-22",
+      "location": "Town Hall",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 36,
+      "title": "Film Festival",
+      "description": "A festival showcasing indie films.",
+      "date": "2024-08-14",
+      "location": "Event Center",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 37,
+      "title": "Yoga Workshop",
+      "description": "Learn and practice yoga.",
+      "date": "2024-09-22",
+      "location": "Yoga Studio",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 38,
+      "title": "Fishing Tournament",
+      "description": "A competitive fishing event.",
+      "date": "2024-10-12",
+      "location": "River Bank",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 39,
+      "title": "Haunted House",
+      "description": "Experience a spooky haunted house.",
+      "date": "2024-11-28",
+      "location": "Old Mansion",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 40,
+      "title": "Bird Watching",
+      "description": "A guided bird watching event.",
+      "date": "2024-12-03",
+      "location": "Nature Reserve",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
